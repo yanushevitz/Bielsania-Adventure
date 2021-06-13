@@ -1,3 +1,12 @@
+---- BIELSANIA ADVENTURE 1.2 V ----
+20.04.2021
+
+FIXED:
+- Economy has been balanced
+- Fight are now more fair
+- Grammar mistakes have been removed
+- Ending has been extended
+
 ---- BIELSANIA ADVENTURE 1.1 V ----
 
 FIXED:
